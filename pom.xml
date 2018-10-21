@@ -1,0 +1,42 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>cz.janhrcek</groupId>
+  <artifactId>kiegroup-all</artifactId>
+  <packaging>pom</packaging>
+  <version>1.0-SNAPSHOT</version>
+
+  <name>All KieGroup repositories</name>
+
+  <url>http://github.com/kiegroup</url>
+
+  <modules>
+    <module>errai</module>
+    <module>lienzo-core</module>
+    <module>lienzo-tests</module>
+    <module>kie-soup</module>
+    <module>appformer</module>
+    <module>droolsjbpm-build-bootstrap</module>
+    <module>droolsjbpm-knowledge</module>
+    <module>drlx-parser</module>
+    <module>drools</module>
+    <module>optaplanner</module>
+    <module>jbpm</module>
+    <module>droolsjbpm-integration</module>
+    <module>droolsjbpm-tools</module>
+    <module>kie-uberfire-extensions</module>
+    <module>kie-wb-playground</module>
+    <module>kie-wb-common</module>
+    <module>drools-wb</module>
+    <module>optaplanner-wb</module>
+    <module>jbpm-designer</module>
+    <module>jbpm-wb</module>
+    <module>kie-docs</module>
+    <module>jbpm-work-items</module>
+    <module>kie-wb-distributions</module>
+    <module>optaweb-employee-rostering</module>
+  </modules>
+
+</project>
