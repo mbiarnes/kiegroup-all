@@ -1,72 +1,75 @@
 [submodule "lienzo-core"]
 	path = lienzo-core
-	url = https://github.com/kiegroup/lienzo-core.git
+	url = https://github.com/mbiarnes/lienzo-core.git
 [submodule "lienzo-tests"]
 	path = lienzo-tests
-	url = https://github.com/kiegroup/lienzo-tests
-[submodule "kie-soup"]
-	path = kie-soup
-	url = https://github.com/kiegroup/kie-soup
-[submodule "appformer"]
-	path = appformer
-	url = https://github.com/kiegroup/appformer
+	url = https://github.com/mbiarnes/lienzo-tests
 [submodule "droolsjbpm-build-bootstrap"]
 	path = droolsjbpm-build-bootstrap
-	url = https://github.com/kiegroup/droolsjbpm-build-bootstrap
+	url = https://github.com/mbiarnes/droolsjbpm-build-bootstrap
+[submodule "kie-soup"]
+	path = kie-soup
+	url = https://github.com/mbiarnes/kie-soup
+[submodule "appformer"]
+	path = appformer
+	url = https://github.com/mbiarnes/appformer
 [submodule "droolsjbpm-knowledge"]
 	path = droolsjbpm-knowledge
-	url = https://github.com/kiegroup/droolsjbpm-knowledge
-[submodule "drlx-parser"]
-	path = drlx-parser
-	url = https://github.com/kiegroup/drlx-parser
+	url = https://github.com/mbiarnes/droolsjbpm-knowledge
 [submodule "drools"]
 	path = drools
-	url = https://github.com/kiegroup/drools
+	url = https://github.com/mbiarnes/drools
 [submodule "optaplanner"]
 	path = optaplanner
-	url = https://github.com/kiegroup/optaplanner
+	url = https://github.com/mbiarnes/optaplanner
 [submodule "jbpm"]
 	path = jbpm
-	url = https://github.com/kiegroup/jbpm
+	url = https://github.com/mbiarnes/jbpm
+[submodule "kie-jpmml-integration"]
+	path = kie-jpmml-integration
+	url = https://github.com/mbiarnes/kie-jpmml-integration
 [submodule "droolsjbpm-integration"]
 	path = droolsjbpm-integration
-	url = https://github.com/kiegroup/droolsjbpm-integration
+	url = https://github.com/mbiarnes/droolsjbpm-integration
+[submodule "openshift-drools-hacep"]
+	path = openshift-drools-hacep
+	url = https://github.com/mbiarnes/openshift-drools-hacep
 [submodule "droolsjbpm-tools"]
 	path = droolsjbpm-tools
-	url = https://github.com/kiegroup/droolsjbpm-tools
+	url = https://github.com/mbiarnes/droolsjbpm-tools
 [submodule "kie-uberfire-extensions"]
 	path = kie-uberfire-extensions
-	url = https://github.com/kiegroup/kie-uberfire-extensions
+	url = https://github.com/mbiarnes/kie-uberfire-extensions
 [submodule "kie-wb-playground"]
 	path = kie-wb-playground
-	url = https://github.com/kiegroup/kie-wb-playground
+	url = https://github.com/mbiarnes/kie-wb-playground
 [submodule "kie-wb-common"]
 	path = kie-wb-common
-	url = https://github.com/kiegroup/kie-wb-common
+	url = https://github.com/mbiarnes/kie-wb-common
 [submodule "drools-wb"]
 	path = drools-wb
-	url = https://github.com/kiegroup/drools-wb
+	url = https://github.com/mbiarnes/drools-wb
 [submodule "optaplanner-wb"]
 	path = optaplanner-wb
-	url = https://github.com/kiegroup/optaplanner-wb
+	url = https://github.com/mbiarnes/optaplanner-wb
 [submodule "jbpm-designer"]
 	path = jbpm-designer
-	url = https://github.com/kiegroup/jbpm-designer
-[submodule "jbpm-wb"]
-	path = jbpm-wb
-	url = https://github.com/kiegroup/jbpm-wb
-[submodule "kie-docs"]
-	path = kie-docs
-	url = https://github.com/kiegroup/kie-docs
+	url = https://github.com/mbiarnes/jbpm-designer
 [submodule "jbpm-work-items"]
 	path = jbpm-work-items
-	url = https://github.com/kiegroup/jbpm-work-items
+	url = https://github.com/mbiarnes/jbpm-work-items
+[submodule "jbpm-wb"]
+	path = jbpm-wb
+	url = https://github.com/mbiarnes/jbpm-wb
+[submodule "kie-docs"]
+	path = kie-docs
+	url = https://github.com/mbiarnes/kie-docs
 [submodule "kie-wb-distributions"]
 	path = kie-wb-distributions
-	url = https://github.com/kiegroup/kie-wb-distributions
+	url = https://github.com/mbiarnes/kie-wb-distributions
 [submodule "optaweb-employee-rostering"]
 	path = optaweb-employee-rostering
-	url = https://github.com/kiegroup/optaweb-employee-rostering
-[submodule "errai"]
-	path = errai
-	url = git@github.com:errai/errai.git
+	url = https://github.com/mbiarnes/optaweb-employee-rostering
+[submodule "optaweb-vehicle-routing"]
+	path = optaweb-vehicle-routing
+	url = https://github.com/mbiarnes/optaweb-vehicle-routing

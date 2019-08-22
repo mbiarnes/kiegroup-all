@@ -13,18 +13,18 @@
   <url>http://github.com/kiegroup</url>
 
   <modules>
-    <module>errai</module>
     <module>lienzo-core</module>
     <module>lienzo-tests</module>
-    <module>kie-soup</module>
-    <module>appformer</module>
     <module>droolsjbpm-build-bootstrap</module>
+    <module>kie-soup</module>
+    <module>appformer</module>    
     <module>droolsjbpm-knowledge</module>
-    <module>drlx-parser</module>
     <module>drools</module>
     <module>optaplanner</module>
     <module>jbpm</module>
+    <module>kie-jpmml-integration</module>
     <module>droolsjbpm-integration</module>
+    <module>openshift-drools-hacep</module>
     <module>droolsjbpm-tools</module>
     <module>kie-uberfire-extensions</module>
     <module>kie-wb-playground</module>
@@ -32,11 +32,12 @@
     <module>drools-wb</module>
     <module>optaplanner-wb</module>
     <module>jbpm-designer</module>
+    <module>jbpm-work-items</module>    
     <module>jbpm-wb</module>
     <module>kie-docs</module>
-    <module>jbpm-work-items</module>
     <module>kie-wb-distributions</module>
     <module>optaweb-employee-rostering</module>
+    <module>optaweb-vehicle-routing</module>    
   </modules>
 
 </project>
